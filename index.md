@@ -31,7 +31,7 @@
 [Réalisez une étude de santé publique](pages/da_p3.md)
 
 ---
-[Analysez les ventes de votre entreprise ](/pdf/sample_presentation.pdf)
+[Analysez les ventes de votre entreprise ](pages/da_p4.md))
 
 ---
 [Produisez une étude de marché](http://example.com/)
