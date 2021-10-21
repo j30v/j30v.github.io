@@ -27,4 +27,4 @@ l'indice de Gini calculé sur les revenus des habitants du pays en question.
 
 [Notebook du projet](https://nbviewer.org/github/jeremy-vangansberg/jeremy-vangansberg.github.io/blob/master/notebooks/da_p7.ipynb)
 
-[Support de présentation](pdf/da_p7.pdf)
+[Support de présentation](/pdf/da_p7.pdf)

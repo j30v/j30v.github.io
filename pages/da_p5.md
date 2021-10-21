@@ -20,4 +20,4 @@ Dans un premier temps, la stratégie est plutôt d'exporter les produits plutôt
 
 [Notebook du projet](https://nbviewer.org/github/jeremy-vangansberg/jeremy-vangansberg.github.io/blob/master/notebooks/da_p5.ipynb)
 
-[Support de présentation](pdf/da_p5.pdf)
+[Support de présentation](/pdf/da_p5.pdf)

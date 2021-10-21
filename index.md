@@ -2,7 +2,7 @@
 
 ---
 
-### Data science project as a Data Scientist
+### Data science projects as a Data Scientist
 ---
 [Analysez les données de systèmes éducatifs](pages/ds_p2.md)
 
@@ -22,10 +22,10 @@
 [Implémentez un modèle de scoring](pages/ds_p7.md)
 
 ---
-[Déployez un modèle dans le cloud](pages/ds_p8.md))
+[Déployez un modèle dans le cloud](pages/ds_p8.md)
 
 ---
-### Data science project as a Data Analyst
+### Data science projects as a Data Analyst
 
 ---
 [Réalisez une étude de santé publique](pages/da_p3.md)

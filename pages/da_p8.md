@@ -10,6 +10,6 @@ https://www.kaggle.com/kemical/kickstarter-projects
 
 [Notebook du projet](https://nbviewer.org/github/jeremy-vangansberg/jeremy-vangansberg.github.io/blob/master/notebooks/da_p8.ipynb)
 
-[Support de présentation](pdf/da_p8.pdf)
+[Support de présentation](/pdf/da_p8.pdf)
 
-[Rapport](pdf/da_p8_r.pdf)
+[Rapport](/pdf/da_p8_r.pdf)

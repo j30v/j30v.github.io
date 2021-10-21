@@ -14,4 +14,4 @@ Vous vous voyez déjà en grand justicier combattant sans relâche la criminalit
 
 [Notebook du projet](https://nbviewer.org/github/jeremy-vangansberg/jeremy-vangansberg.github.io/blob/master/notebooks/da_p6.ipynb)
 
-[Support de présentation](pdf/da_p6.pdf)
+[Support de présentation](/pdf/da_p6.pdf)

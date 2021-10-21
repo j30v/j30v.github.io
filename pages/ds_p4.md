@@ -1,15 +1,25 @@
-## Réalisez une étude de santé publique
+## Anticipez les besoins en consommation électrique de bâtiments
 
 ## Contexte du projet
 
-Vous êtes intégré à une nouvelle équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO), l'un des organes qui compose l'ONU et dont l'objectif est d' « aider à construire un monde libéré de la faim ».
+Vous travaillez pour la ville de Seattle. Pour atteindre son objectif de ville neutre en émissions de carbone en 2050, votre équipe s’intéresse de près aux émissions des bâtiments non destinés à l’habitation.
 
-Votre équipe est chargée de réaliser une étude de grande ampleur sur le thème de la sous-nutrition dans le monde.
+![ds-p2](/images/ds-p4.png)
 
-Le problème de la faim est complexe et peut avoir de multiples causes, différentes selon les pays. L’étape préliminaire de cette étude sera donc d’établir un “état de l’art” des recherches déjà publiées, mais également de mener une étude statistique destinée à orienter les recherches vers des pays particuliers, et de mettre en lumière différentes causes de la faim. Ainsi, une poignée de data analysts (dont vous !) a été sélectionnée pour mener cette étape préliminaire. Lors de la première réunion, vous avez été désigné pour mettre une place la base de données que votre équipe pourra requéter (en SQL) à souhait pour réaliser cette étude statistique.
+Mark, votre manager, vous a convié à une réunion pour vous présenter le projet d’expansion à l’international de l’entreprise. Il vous confie une première mission d’analyse exploratoire, pour déterminer si les données sur l’éducation de la banque mondiale permettent d’informer le projet d’expansion.
+
+Voici les différentes questions que Mark aimerait explorer, que vous avez notées durant la réunion :
+
+Quels sont les pays avec un fort potentiel de clients pour nos services ?
+Pour chacun de ces pays, quelle sera l’évolution de ce potentiel de clients ?
+Dans quels pays l'entreprise doit-elle opérer en priorité ?
 
 ## Livrables
 
-[Lien vers la présentation vidéo](https://youtu.be/Bto2lZONMRA)
+[Lien vers la présentation vidéo](https://youtu.be/ju75VfTAKtk)
 
-[Notebook du projet](https://nbviewer.org/github/jeremy-vangansberg/jeremy-vangansberg.github.io/blob/master/notebooks/da_p3.ipynb)
+[Notebook du projet - p1](https://nbviewer.org/github/jeremy-vangansberg/jeremy-vangansberg.github.io/blob/master/notebooks/ds_p4_p1.ipynb)
+
+[Notebook du projet - p2](https://nbviewer.org/github/jeremy-vangansberg/jeremy-vangansberg.github.io/blob/master/notebooks/ds_p4_p2.ipynb)
+
+[Support de présentation](/pdf/ds_p4.pdf)

@@ -1,15 +1,23 @@
-## Réalisez une étude de santé publique
+## Segmentez des clients d'un site e-commerce
 
 ## Contexte du projet
 
-Vous êtes intégré à une nouvelle équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO), l'un des organes qui compose l'ONU et dont l'objectif est d' « aider à construire un monde libéré de la faim ».
+Vous êtes consultant pour Olist, une solution de vente sur les marketplaces en ligne.
 
-Votre équipe est chargée de réaliser une étude de grande ampleur sur le thème de la sous-nutrition dans le monde.
+![ds-p2](/images/ds-p5.png)
 
-Le problème de la faim est complexe et peut avoir de multiples causes, différentes selon les pays. L’étape préliminaire de cette étude sera donc d’établir un “état de l’art” des recherches déjà publiées, mais également de mener une étude statistique destinée à orienter les recherches vers des pays particuliers, et de mettre en lumière différentes causes de la faim. Ainsi, une poignée de data analysts (dont vous !) a été sélectionnée pour mener cette étape préliminaire. Lors de la première réunion, vous avez été désigné pour mettre une place la base de données que votre équipe pourra requéter (en SQL) à souhait pour réaliser cette étude statistique.
+Olist souhaite que vous fournissiez à ses équipes d'e-commerce une segmentation des clients qu’elles pourront utiliser au quotidien pour leurs campagnes de communication.
+
+Votre objectif est de comprendre les différents types d’utilisateurs grâce à leur comportement et à leurs données personnelles.
+
+Vous devrez fournir à l’équipe marketing une description actionable de votre segmentation et de sa logique sous-jacente pour une utilisation optimale, ainsi qu’une proposition de contrat de maintenance basée sur une analyse de la stabilité des segments au cours du temps.
 
 ## Livrables
 
-[Lien vers la présentation vidéo](https://youtu.be/Bto2lZONMRA)
+[Lien vers la présentation vidéo](https://youtu.be/8J0ZEuM9AkU)
 
-[Notebook du projet](https://nbviewer.org/github/jeremy-vangansberg/jeremy-vangansberg.github.io/blob/master/notebooks/da_p3.ipynb)
+[Notebook du projet - p1](https://nbviewer.org/github/jeremy-vangansberg/jeremy-vangansberg.github.io/blob/master/notebooks/ds_p5_p1.ipynb)
+
+[Notebook du projet - p2](https://nbviewer.org/github/jeremy-vangansberg/jeremy-vangansberg.github.io/blob/master/notebooks/ds_p5_p2.ipynb)
+
+[Support de présentation](/pdf/ds_p5.pdf)
