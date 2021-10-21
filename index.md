@@ -4,25 +4,25 @@
 
 ### Data science project as a Data Scientist
 ---
-[Analysez les données de systèmes éducatifs](/pdf/sample_presentation.pdf)
+[Analysez les données de systèmes éducatifs](pages/ds_p2.md)
 
 ---
-[Concevez une application au service de la santé publique](http://example.com/)
+[Concevez une application au service de la santé publique](pages/ds_p3.md)
 
 ---
-[Anticipez les besoins en consommation électrique des bâtiments](http://example.com/)
+[Anticipez les besoins en consommation électrique des bâtiments](pages/ds_p4.md)
 
 ---
-[Segmentez des clients d'un site e-commerce](http://example.com/)
+[Segmentez des clients d'un site e-commerce](pages/ds_p5.md)
 
 ---
-[Classifiez automatiquement des biens de consommation](http://example.com/)
+[Classifiez automatiquement des biens de consommation](pages/ds_p6.md)
 
 ---
-[Implémentez un modèle de scoring](http://example.com/)
+[Implémentez un modèle de scoring](pages/ds_p7.md)
 
 ---
-[déployez un modèle dans le cloud](http://example.com/)
+[déployez un modèle dans le cloud](pages/ds_p8.md))
 
 ---
 ### Data science project as a Data Analyst
