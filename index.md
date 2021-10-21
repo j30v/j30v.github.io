@@ -3,14 +3,16 @@
 ---
 
 ### Data science project as a Data Scientist
+---
 
-[Réalisez une étude de santé publique](pages/da_p3.md)
----
 [Analysez les données de systèmes éducatifs](/pdf/sample_presentation.pdf)
+
 ---
+
 [Concevez une application au service de la santé publique](http://example.com/)
 ---
 [Anticipez les besoins en consommation électrique des bâtiments](http://example.com/)
+
 ---
 [Segmentez des clients d'un site e-commerce](http://example.com/)
 ---
@@ -21,8 +23,8 @@
 [déployez un modèle dans le cloud](http://example.com/)
 ---
 ### Data science project as a Data Analyst
-
-[Réalisez une étude de santé publique](/sample_page)
+---
+[Réalisez une étude de santé publique](pages/da_p3.md)
 ---
 [Analysez les ventes de votre entreprise ](/pdf/sample_presentation.pdf)
 ---
