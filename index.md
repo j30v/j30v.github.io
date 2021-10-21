@@ -4,7 +4,7 @@
 
 ### Data science project as a Data Scientist
 
-[Réalisez une étude de santé publique](/sample_page)
+[Réalisez une étude de santé publique](pages/sample_page)
 ---
 [Analysez les données de systèmes éducatifs](/pdf/sample_presentation.pdf)
 ---
