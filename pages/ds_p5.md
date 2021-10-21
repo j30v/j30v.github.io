@@ -4,7 +4,7 @@
 
 Vous êtes consultant pour Olist, une solution de vente sur les marketplaces en ligne.
 
-![ds-p2](/images/ds-p5.png)
+![ds-p5](/images/ds-p5.png)
 
 Olist souhaite que vous fournissiez à ses équipes d'e-commerce une segmentation des clients qu’elles pourront utiliser au quotidien pour leurs campagnes de communication.
 

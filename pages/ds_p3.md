@@ -4,7 +4,7 @@
 
 L'agence "Santé publique France" a lancé un appel à projets pour trouver des idées innovantes d’applications en lien avec l'alimentation. Vous souhaitez y participer et proposer une idée d’application.
 
-![ds-p2](/images/ds-p3.png)
+![ds-p3](/images/ds-p3.png)
 
 ## Livrables
 
