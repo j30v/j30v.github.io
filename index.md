@@ -34,16 +34,16 @@
 [Analysez les ventes de votre entreprise ](pages/da_p4.md)
 
 ---
-[Produisez une étude de marché](http://example.com/)
+[Produisez une étude de marché](pages/da_p5.md)
 
 ---
-[Détectez des faux billets](http://example.com/)
+[Détectez des faux billets](pages/da_p6.md)
 
 ---
-[Effectuez une prédiction de revenus](http://example.com/)
+[Effectuez une prédiction de revenus](pages/da_p7.md)
 
 ---
-[Communiquez vos résultats](http://example.com/)
+[Communiquez vos résultats](pages/da_p8.md)
 
 ---
-[Prédisez la demande en électricité](http://example.com/)
+[Prédisez la demande en électricité](pages/da_p9.md)
