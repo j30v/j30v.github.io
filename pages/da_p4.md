@@ -16,4 +16,4 @@ Comme vous l'avez appris dans vos recherches avant de postuler, votre entreprise
 
 [Notebook du projet](https://nbviewer.org/github/jeremy-vangansberg/jeremy-vangansberg.github.io/blob/master/notebooks/da_p4.ipynb)
 
-[Support de présentation](pdf/da_p4.pdf)
+[Support de présentation](/pdf/da_p4.pdf)

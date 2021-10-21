@@ -2,22 +2,16 @@
 
 ## Contexte du projet
 
-Votre entreprise d'agroalimentaire souhaite se développer à l'international. Elle est spécialisée dans...
+Votre société de consulting informatique vous propose une nouvelle mission au ministère de l'Intérieur, dans le cadre de la lutte contre la criminalité organisée, à l'Office central pour la répression du faux monnayage. Votre mission si vous l'acceptez : créer un algorithme de détection de faux billets.
 
-![p5-image](images/p5-image.jpg)
+Vous vous voyez déjà en grand justicier combattant sans relâche la criminalité organisée en pianotant à mains de maître votre ordinateur, pour façonner ce fabuleux algorithme  qui traquera la moindre fraude et permettra de mettre à jour les réseaux secrets de faux-monnayeurs ! La classe, non ?
 
-... le poulet !
-
-L'international, oui, mais pour l'instant, le champ des possibles est bien large : aucun pays particulier ni aucun continent n'est pour le moment choisi. Tous les pays sont envisageables !
-
-Votre objectif sera d'aider à cibler plus particulièrement certains pays, dans le but d'approfondir ensuite l'étude de marché. Plus particulièrement, l'idéal serait de produire des "groupes" de pays, plus ou moins gros, dont on connaît les caractéristiques.
-
-Dans un premier temps, la stratégie est plutôt d'exporter les produits plutôt que de produire sur place, c'est-à-dire dans le(s) nouveau(x) pays ciblé(s).
+... Bon, si on retombait les pieds sur terre? Travailler pour la police judiciaire, c'est bien, mais vous allez devoir faire appel à vos connaissances en statistiques, alors on y va !
 
 ## Livrables
 
-[Lien vers la présentation vidéo](https://youtu.be/B2s7mTaq8yQ)
+[Lien vers la présentation vidéo](https://youtu.be/GIcR_hwUCUQ)
 
-[Notebook du projet](https://nbviewer.org/github/jeremy-vangansberg/jeremy-vangansberg.github.io/blob/master/notebooks/da_p5.ipynb)
+[Notebook du projet](https://nbviewer.org/github/jeremy-vangansberg/jeremy-vangansberg.github.io/blob/master/notebooks/da_p6.ipynb)
 
-[Support de présentation](pdf/da_p5.pdf)
+[Support de présentation](pdf/da_p6.pdf)

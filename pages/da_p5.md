@@ -4,7 +4,7 @@
 
 Votre entreprise d'agroalimentaire souhaite se développer à l'international. Elle est spécialisée dans...
 
-<img src="images/p5-image.jpg?raw=true"/>
+<img src="https://github.com/jeremy-vangansberg/jeremy-vangansberg.github.io/blob/master/images/p5-image.jpeg?raw=true"/>
 
 ... le poulet !
 

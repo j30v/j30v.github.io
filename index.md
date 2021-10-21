@@ -22,7 +22,7 @@
 [Implémentez un modèle de scoring](pages/ds_p7.md)
 
 ---
-[déployez un modèle dans le cloud](pages/ds_p8.md))
+[Déployez un modèle dans le cloud](pages/ds_p8.md))
 
 ---
 ### Data science project as a Data Analyst

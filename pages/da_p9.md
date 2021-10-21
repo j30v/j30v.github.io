@@ -1,23 +1,13 @@
-## Produisez une étude de marché
+## Prédisez la demande en électricité
 
 ## Contexte du projet
 
-Votre entreprise d'agroalimentaire souhaite se développer à l'international. Elle est spécialisée dans...
+Vous êtes employé chez Enercoop, société coopérative qui s'est développée grâce à la libéralisation du marché de l’électricité en France. Elle est spécialisée dans les énergies renouvelables.
 
-![p5-image](images/p5-image.jpg)
-
-... le poulet !
-
-L'international, oui, mais pour l'instant, le champ des possibles est bien large : aucun pays particulier ni aucun continent n'est pour le moment choisi. Tous les pays sont envisageables !
-
-Votre objectif sera d'aider à cibler plus particulièrement certains pays, dans le but d'approfondir ensuite l'étude de marché. Plus particulièrement, l'idéal serait de produire des "groupes" de pays, plus ou moins gros, dont on connaît les caractéristiques.
-
-Dans un premier temps, la stratégie est plutôt d'exporter les produits plutôt que de produire sur place, c'est-à-dire dans le(s) nouveau(x) pays ciblé(s).
+La plupart de ces énergies renouvelables est cependant intermittente, il est donc difficile de prévoir les capacités de production d'électricité. De plus, la demande en électricité des utilisateurs varie au cours du temps, et dépend de paramètres comme la météo (température, luminosité, etc.) Tout le challenge est de mettre en adéquation l'offre et la demande !
 
 ## Livrables
 
-[Lien vers la présentation vidéo](https://youtu.be/B2s7mTaq8yQ)
+[Lien vers la présentation vidéo](https://youtu.be/Y1O7e2Ve3bU)
 
-[Notebook du projet](https://nbviewer.org/github/jeremy-vangansberg/jeremy-vangansberg.github.io/blob/master/notebooks/da_p5.ipynb)
-
-[Support de présentation](pdf/da_p5.pdf)
+[Notebook du projet](https://nbviewer.org/github/jeremy-vangansberg/jeremy-vangansberg.github.io/blob/master/notebooks/da_p9.ipynb)

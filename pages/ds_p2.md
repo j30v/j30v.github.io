@@ -10,6 +10,8 @@ Le problème de la faim est complexe et peut avoir de multiples causes, différe
 
 ## Livrables
 
-[Lien vers la présentation vidéo](https://youtu.be/Bto2lZONMRA)
+[Lien vers la présentation vidéo](https://youtu.be/mKn21Zue6qQ)
 
 [Notebook du projet](https://nbviewer.org/github/jeremy-vangansberg/jeremy-vangansberg.github.io/blob/master/notebooks/da_p3.ipynb)
+
+[Support de présentation](/pdf/da_p4.pdf)

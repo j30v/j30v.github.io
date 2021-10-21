@@ -1,23 +1,30 @@
-## Produisez une étude de marché
+## Effectuez une prédiction de revenus
+
 
 ## Contexte du projet
 
-Votre entreprise d'agroalimentaire souhaite se développer à l'international. Elle est spécialisée dans...
+Vous êtes employé dans une banque, présente dans de nombreux pays à travers le monde. Celle-ci souhaite cibler de nouveaux clients potentiels, plus particulièrement les jeunes en âge d'ouvrir leur tout premier compte bancaire.
 
-![p5-image](images/p5-image.jpg)
+Cependant, elle souhaite cibler les prospects les plus susceptibles d'avoir, plus tard dans leur vie, de hauts revenus.
 
-... le poulet !
+L'équipe dans laquelle vous travaillez a donc reçu pour mission de créer un modèle permettant de déterminer le revenu potentiel d'une personne.
 
-L'international, oui, mais pour l'instant, le champ des possibles est bien large : aucun pays particulier ni aucun continent n'est pour le moment choisi. Tous les pays sont envisageables !
+Très bien.
 
-Votre objectif sera d'aider à cibler plus particulièrement certains pays, dans le but d'approfondir ensuite l'étude de marché. Plus particulièrement, l'idéal serait de produire des "groupes" de pays, plus ou moins gros, dont on connaît les caractéristiques.
+"Quelles informations avons-nous ?" demandez-vous à votre supérieur, qui vous répond : "À vrai dire... quasiment aucune : uniquement le revenu des parents, car nous allons cibler les enfants de nos clients actuels, ainsi que le pays où ils habitent. C'est tout ! Ah oui, une dernière chose : ce modèle doit être valable pour la plupart des pays du monde. Je vous laisse méditer là-dessus… Bon courage !"
 
-Dans un premier temps, la stratégie est plutôt d'exporter les produits plutôt que de produire sur place, c'est-à-dire dans le(s) nouveau(x) pays ciblé(s).
+Avec aussi peu de données disponibles, cela semble être un sacré challenge !
+
+Ainsi, vous proposez une régression linéaire avec 3 variables :
+
+le revenu des parents ;
+le revenu moyen du pays dans lequel habite le prospect ;
+l'indice de Gini calculé sur les revenus des habitants du pays en question.
 
 ## Livrables
 
-[Lien vers la présentation vidéo](https://youtu.be/B2s7mTaq8yQ)
+[Lien vers la présentation vidéo](https://youtu.be/EHU79x7O5Vg)
 
-[Notebook du projet](https://nbviewer.org/github/jeremy-vangansberg/jeremy-vangansberg.github.io/blob/master/notebooks/da_p5.ipynb)
+[Notebook du projet](https://nbviewer.org/github/jeremy-vangansberg/jeremy-vangansberg.github.io/blob/master/notebooks/da_p7.ipynb)
 
-[Support de présentation](pdf/da_p5.pdf)
+[Support de présentation](pdf/da_p7.pdf)
